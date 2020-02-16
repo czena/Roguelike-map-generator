@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ninja\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_WildSpaceConqueror.-631482708.00" t="ExcludeRecursive" />
+    <e p="E:\Work\BitBucketRepoNewProject\Yasko_TestVersion\WildSpaceConqueror" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DownloadAssets" t="Include">
+          <e p="Robot Shooting Game" t="Include">
+            <e p="Read Me.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BaseObjects.cs" t="Include" />
+          <e p="ControllerScripts" t="Include">
+            <e p="BloodController.cs" t="Include" />
+            <e p="BulletController.cs" t="Include" />
+            <e p="CameraController.cs" t="Include" />
+            <e p="ChestController.cs" t="Include" />
+            <e p="Doors_controller.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="MazeCamera.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="SecretWallController.cs" t="Include" />
+          </e>
+          <e p="Enemies" t="Include">
+            <e p="Bomb.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="Fly.cs" t="Include" />
+            <e p="Mole.cs" t="Include" />
+            <e p="Rat.cs" t="Include" />
+            <e p="Slime.cs" t="Include" />
+            <e p="Snail.cs" t="Include" />
+          </e>
+          <e p="EnemyStats.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="MazeGenerator" t="Include">
+            <e p="Collections" t="Include">
+              <e p="Collections.cs" t="Include" />
+              <e p="EnemyCollection.cs" t="Include" />
+            </e>
+            <e p="EnemiesConstructor.cs" t="Include" />
+            <e p="EnemyInfo.cs" t="Include" />
+            <e p="GenSettings.cs" t="Include" />
+            <e p="LevelConstructor.cs" t="Include" />
+            <e p="LevelInfo.cs" t="Include" />
+            <e p="MazePosition.cs" t="Include" />
+            <e p="Methods" t="Include">
+              <e p="BaseEnterExit.cs" t="Include" />
+              <e p="EnterLevel.cs" t="Include" />
+              <e p="ExitLevel.cs" t="Include" />
+              <e p="SectionExit.cs" t="Include" />
+              <e p="ShortPath.cs" t="Include" />
+            </e>
+            <e p="Point.cs" t="Include" />
+            <e p="Rectangle.cs" t="Include" />
+            <e p="RoomConstrcutor.cs" t="Include" />
+            <e p="RoomInfo.cs" t="Include" />
+            <e p="SecretRoomConstructor.cs" t="Include" />
+            <e p="SecretRoomInfo.cs" t="Include" />
+            <e p="SectionConstructor.cs" t="Include" />
+            <e p="SectionInfo.cs" t="Include" />
+          </e>
+          <e p="PlayerSpawner.cs" t="Include" />
+          <e p="PlayerStats.cs" t="Include" />
+          <e p="PlayerUI.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="WildSpaceConqueror.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
